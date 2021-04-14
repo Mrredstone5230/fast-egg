@@ -1,0 +1,5 @@
+#Hatching time in ticks
+hatching-time: 10000
+
+#DO NOT TOUCH
+eggs:
